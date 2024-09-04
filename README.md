@@ -1,6 +1,6 @@
 # Artificial Intelligence for Beginners: How ChatGPT Works
 
-![Uploading Dark Blue Gradient Modern Futuristic Portfolio Cover.png…]()
+![Dark Blue Gradient Modern Futuristic Portfolio Cover](https://github.com/user-attachments/assets/ff1e9d88-a32b-4beb-b8e4-5f20cd051588)
 
 Welcome to the repository for the **[Artificial Intelligence for Beginners: How ChatGPT Works](https://www.skillshare.com/en/classes/artificial-intelligence-for-beginners-how-chatgpt-works/360552099?via=custom-lists)** course on Skillshare! This repository is designed to accompany the course, providing you with all the necessary projects, code snippets, and resources to help you understand the fundamentals of AI and how ChatGPT operates.
 
